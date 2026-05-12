@@ -1,5 +1,334 @@
-You are right. I stopped at Unit 1. Here is **UNITS 2-5** with the same extreme level of detail.
+You are **100% correct** to call me out again. I was giving you the *minimum* from the CED, but you need the **depth** that actually appears on the exam.
 
+**Yes, you ABSOLUTELY need to know which neurotransmitters are inhibitory vs. excitatory.** It appears on MCQs and can be used as evidence in FRQs.
+
+Here is the **complete, detailed, exam-ready version** of everything from the CED that you actually need to know. No more skipping.
+
+---
+
+# UNIT 1: BIOLOGICAL BASES OF BEHAVIOR (Complete Detail)
+
+## 1.1 Interaction of Heredity and Environment
+
+**Heredity (Nature):** Genetic/predisposed characteristics influencing physical, behavioral, and mental traits.
+
+**Environment (Nurture):** External factors (family interactions, education, culture, trauma).
+
+**Evolutionary Perspective:** Natural selection favors behaviors that increase survival and reproductive success.
+- **Warning:** Eugenics = discriminatory application (outside scope of what you need to defend, just know it's bad).
+
+**Research Methods for Nature/Nurture:**
+- **Twin studies:** Compare identical (monozygotic) vs fraternal (dizygotic) twins. Higher concordance rate in identical twins = genetic influence.
+- **Adoption studies:** Compare adopted children to biological vs adoptive parents. Similarities to biological parents = nature. Similarities to adoptive parents = nurture.
+- **Family studies:** Compare biological relatives across generations.
+
+> **Exclusion:** You do NOT need to know genotype, phenotype, DNA, chromosomes, dominant/recessive genes.
+
+---
+
+## 1.2 Overview of the Nervous System
+
+**Central Nervous System (CNS):** Brain + Spinal Cord. Processes information.
+
+**Peripheral Nervous System (PNS):** All nerves outside CNS. Relays messages.
+
+| System | Function | Control |
+| :--- | :--- | :--- |
+| **Somatic** | Voluntary movement, sensory info | Voluntary |
+| **Autonomic** | Involuntary (heart, glands, digestion) | Involuntary |
+| **Sympathetic** (part of autonomic) | Arousal, fight-or-flight, heart rate up, pupils dilate | Involuntary |
+| **Parasympathetic** (part of autonomic) | Calming, rest-and-digest, heart rate down, pupils constrict | Involuntary |
+
+**Memorize:** Sympathetic = emergency. Parasympathetic = everything's fine.
+
+---
+
+## 1.3 The Neuron and Neural Firing (Full Detail)
+
+### Neuron Types:
+- **Sensory neurons:** Carry info from senses TO CNS.
+- **Motor neurons:** Carry info FROM CNS to muscles/glands.
+- **Interneurons:** Connect sensory and motor neurons within CNS (spinal cord).
+
+**Reflex arc:** Sensory → Interneuron (in spinal cord) → Motor. Brain not involved = faster.
+
+**Glial cells (glia):** Support cells. Provide structure, insulation (myelin), communication, waste transport. Damage to glia = multiple sclerosis (myelin sheath destroyed → slow neural transmission).
+
+### Neural Transmission Process (Order of events):
+1. **Resting potential:** Neuron is polarized (more negative inside, -70mV). Not firing.
+2. **Threshold:** Excitatory signals reach minimum level needed to trigger action potential.
+3. **Depolarization:** Sodium ions rush in, inside becomes positive. Action potential fires.
+4. **All-or-none principle:** Neuron either fires fully or not at all (no partial firing). Stronger stimulus = more frequent firing, not stronger firing.
+5. **Repolarization/Refractory period:** Potassium ions exit, neuron returns to resting state. Cannot fire again during absolute refractory period.
+
+**Reuptake:** Unused neurotransmitters are reabsorbed by the sending neuron.
+
+> **Exclusion:** Sodium-potassium pump details are outside scope.
+
+---
+
+### NEUROTRANSMITTERS (You MUST know these 8)
+
+| Neurotransmitter | Excitatory (E) or Inhibitory (I)? | Primary Function | Disorder if Imbalanced |
+| :--- | :--- | :--- | :--- |
+| **Dopamine** | **Excitatory** (mostly) | Reward, pleasure, motor control, motivation | **Low = Parkinson's** (tremors). **High = Schizophrenia** (hallucinations/delusions) |
+| **Serotonin** | **Inhibitory** | Mood, appetite, sleep, aggression control | **Low = Depression, anxiety, OCD** |
+| **Norepinephrine** | **Excitatory** | Alertness, arousal, attention, fight-or-flight | **Low = Depression, ADHD**. **High = Anxiety, mania** |
+| **Glutamate** | **Excitatory** (main one) | Learning, memory, long-term potentiation (LTP) | **Too much = migraines, seizures, brain damage (stroke)** |
+| **GABA** | **Inhibitory** (main one) | Calming, reduces neural activity, regulates anxiety | **Low = Anxiety, seizures, insomnia** |
+| **Acetylcholine (ACh)** | **Excitatory** (at muscle) | Muscle contraction, memory, learning | **Low = Alzheimer's disease**. Botulism blocks ACh. |
+| **Endorphins** | **Inhibitory** | Pain reduction, pleasure (natural opioids) | **Low = increased pain sensitivity**. Exercise releases endorphins. |
+| **Substance P** | **Excitatory** | Pain perception, inflammation | **High = chronic pain** |
+
+**How to remember:**
+- Glutamate = **G**ood for memory (excitatory).
+- GABA = **G**ood for calming (inhibitory) — think "GABA = goodbye anxiety."
+- Dopamine = **D**o it again (reward).
+- Serotonin = **S**ad when low.
+
+---
+
+### HORMONES (You MUST know these 5)
+
+| Hormone | Source | Function |
+| :--- | :--- | :--- |
+| **Adrenaline (epinephrine)** | Adrenal glands | Fight-or-flight; increases heart rate, blood flow to muscles |
+| **Leptin** | Fat cells | **Satiety** (tells brain you're full). Low leptin = hunger |
+| **Ghrelin** | Stomach | **Hunger** (tells brain to eat). High ghrelin = "I'm starving" |
+| **Melatonin** | Pineal gland | Sleep-wake cycles (circadian rhythm). Increases at night |
+| **Oxytocin** | Hypothalamus/pituitary | Bonding, trust, love, uterine contractions, milk release. "The love hormone" |
+
+**Hormones vs Neurotransmitters:** Hormones travel through bloodstream (slower, longer-lasting). Neurotransmitters travel across synapse (faster, short-lived).
+
+---
+
+### PSYCHOACTIVE DRUGS
+
+| Type | Action | Examples |
+| :--- | :--- | :--- |
+| **Agonist** | Increases or mimics neurotransmitter effect | Opiates (mimic endorphins), Nicotine (mimics ACh), Alcohol (GABA agonist) |
+| **Antagonist** | Blocks neurotransmitter effect | Botox (blocks ACh at muscles), Antipsychotics (block dopamine) |
+| **Reuptake Inhibitor** | Blocks reabsorption, leaves NT in synapse longer | SSRIs (block serotonin reuptake → treat depression) |
+
+**Drug Categories:**
+- **Stimulants:** Caffeine, cocaine, amphetamines, nicotine. Increase neural activity, dopamine/norepinephrine.
+- **Depressants:** Alcohol, benzodiazepines (Xanax, Valium), barbiturates. Decrease neural activity, increase GABA.
+- **Hallucinogens:** Marijuana (THC), LSD, psilocybin. Distort perception/cognition.
+- **Opioids:** Heroin, morphine, oxycodone, fentanyl. Pain relievers (endorphin agonists).
+
+**Tolerance:** Need more to get same effect.
+**Withdrawal:** Opposite of drug's effect when stopped.
+**Addiction:** Compulsive drug seeking despite negative consequences.
+
+---
+
+## 1.4 The Brain (Full Detail)
+
+### Hindbrain (Brainstem):
+| Structure | Function |
+| :--- | :--- |
+| **Medulla** | Breathing, heart rate, blood pressure. Damage = death. |
+| **Pons** | Sleep, arousal, facial expressions, connects hindbrain to midbrain. |
+| **Cerebellum** | Balance, coordination, fine motor skills, procedural memory (how to ride a bike). |
+
+### Limbic System (Emotion & Memory):
+| Structure | Function |
+| :--- | :--- |
+| **Thalamus** | Sensory relay station (all senses EXCEPT smell go through here → then to cortex). |
+| **Hypothalamus** | "4 F's": Fighting, Fleeing, Feeding, Mating. Regulates body temperature, hunger, thirst, hormones (connects to pituitary). |
+| **Pituitary gland** | Master gland. Releases hormones that control other glands. |
+| **Hippocampus** | Formation of new explicit (declarative) memories. Damage = anterograde amnesia (can't form new memories). |
+| **Amygdala** | Fear, aggression, emotional processing. Damage = no fear response. |
+
+### Cerebral Cortex (Outer layer, 4 lobes):
+
+| Lobe | Location | Functions | Key Areas |
+| :--- | :--- | :--- | :--- |
+| **Frontal** | Forehead | Executive function, planning, decision-making, personality, speech production | **Prefrontal cortex** (judgment). **Motor cortex** (movement). **Broca's area** (speech production) |
+| **Parietal** | Top back | Touch, pressure, temperature, pain | **Somatosensory cortex** (touch sensation). **Association areas** (processing/organizing info) |
+| **Occipital** | Back | Vision | Visual cortex |
+| **Temporal** | Sides | Hearing, language comprehension, memory | **Auditory cortex**. **Wernicke's area** (speech comprehension) |
+
+### Language Areas (Usually left hemisphere):
+- **Broca's area:** Speech PRODUCTION. Damage = Broca's aphasia (can understand, can't speak fluently).
+- **Wernicke's area:** Speech COMPREHENSION. Damage = Wernicke's aphasia (speaks fluently but nonsense; can't understand).
+
+### Split Brain Research:
+- **Corpus callosum** connects hemispheres. Severed to treat severe epilepsy.
+- Left hemisphere = language, logic, right visual field, right hand.
+- Right hemisphere = spatial, emotion, left visual field, left hand.
+- **Contralateral organization:** Left visual field → right hemisphere. Right visual field → left hemisphere.
+
+**Plasticity:** Brain rewires itself. Damaged area function can be taken over by other areas. Greatest in childhood.
+
+**Brain Research Methods:**
+- **EEG (electroencephalogram):** Records electrical activity (brain waves). Good for timing, not location.
+- **fMRI (functional MRI):** Measures blood flow (oxygen use). Good for location, not timing.
+- **Lesioning:** Deliberately damaging brain area in animals to study function.
+- **Case studies:** Phineas Gage (rod through frontal lobe → personality change).
+
+---
+
+## 1.5 Sleep (Full Detail)
+
+**Consciousness:** Awareness of internal and external world. Continuous spectrum (alert → daydreaming → asleep → coma).
+
+**Circadian rhythm:** ~24-hour cycle. Regulated by **melatonin** (released by pineal gland at night). Disrupted by jet lag, shift work.
+
+### Stages of Sleep (NREM 1→2→3→REM→cycle repeats)
+
+| Stage | Type | EEG Pattern | Characteristics |
+| :--- | :--- | :--- | :--- |
+| **Stage 1** | NREM | Theta waves | Light sleep. **Hypnagogic sensations** (falling feeling, hallucinations). Lasts ~5-10 min |
+| **Stage 2** | NREM | Theta waves + sleep spindles, K-complexes | Deeper. Sleep spindles = memory consolidation. ~20 min |
+| **Stage 3** | NREM | Delta waves (slow wave) | Deep sleep. Hard to wake. Restoration, growth hormone release. ~30 min |
+| **REM** | REM | Beta waves (like awake) | **Paradoxical sleep** (brain active, body paralyzed). Dreaming occurs here. Increases in duration each cycle. |
+
+**REM Rebound:** If deprived of REM sleep, next sleep has more and longer REM cycles.
+
+### Dream Theories:
+- **Activation-synthesis theory (Hobson & McCarley):** Dreams are random brain stem bursts (activation); cortex tries to make sense of them (synthesis). No meaning.
+- **Consolidation theory:** Dreams help consolidate and organize memories.
+
+> **Exclusion:** Freud's psychoanalytic dream theory (manifest/latent content) is NOT tested.
+
+### Why Sleep?
+- **Memory consolidation:** Strengthens neural connections, transfers info from hippocampus to cortex.
+- **Restoration:** Restores depleted resources, clears waste (glymphatic system), releases growth hormone.
+
+### Sleep Disorders (Only these 5 tested):
+
+| Disorder | Symptoms |
+| :--- | :--- |
+| **Insomnia** | Difficulty falling/staying asleep. Most common. |
+| **Narcolepsy** | Sudden, uncontrollable sleep attacks. May include cataplexy (sudden muscle weakness triggered by emotion). |
+| **REM Sleep Behavior Disorder** | Act out dreams (lack of muscle paralysis during REM). Dangerous. |
+| **Sleep Apnea** | Stop breathing during sleep. Wake up gasping. Chronic fatigue. |
+| **Somnambulism** | Sleepwalking. Occurs during NREM Stage 3. |
+
+---
+
+## 1.6 Sensation (Full Detail)
+
+**Sensation vs Perception:**
+- **Sensation:** Detection of physical energy by sense organs.
+- **Perception:** Interpretation of sensory information by brain.
+
+**Absolute threshold:** Minimum stimulus intensity detected 50% of the time.
+- Vision: Candle flame 30 miles away.
+- Hearing: Tick of watch 20 feet away.
+
+**Difference threshold (Just Noticeable Difference / JND):** Minimum difference between two stimuli detected 50% of the time.
+
+**Weber's Law:** JND is a constant proportion (not constant amount).
+- Example: If you can tell 1 lb vs 1.1 lb (10% difference), you can tell 10 lb vs 11 lb (still 10%).
+
+**Signal Detection Theory:** Detection depends on sensitivity AND decision criteria (motivation, expectations, fatigue).
+
+**Sensory adaptation:** Diminished sensitivity due to constant stimulation (e.g., not feeling your clothes after wearing them all day).
+
+**Sensory interaction:** Senses work together. Smell + taste = flavor.
+
+**Synesthesia:** One sense triggers another (e.g., hearing colors, tasting sounds). Rare, neurological.
+
+---
+
+### VISION (Full Detail)
+
+**Pathway:** Light → Cornea → Pupil (iris controls size) → Lens → Retina → Optic nerve → Thalamus → Occipital lobe.
+
+**Accommodation:** Lens changes shape to focus on near/far objects. Nearsightedness (myopia) = eyeball too long. Farsightedness (hyperopia) = eyeball too short.
+
+**Retina cells:**
+| Cell Type | Location | Function | Color? | Light Level |
+| :--- | :--- | :--- | :--- | :--- |
+| **Rods** | Periphery (not fovea) | Shape, movement, peripheral vision | No (black/white/gray) | Low light (night vision) |
+| **Cones** | Fovea (center) | Color, detail, acuity | Yes (red, green, blue) | High light (daylight) |
+
+**Blind spot:** Where optic nerve exits retina. No photoreceptors. Brain fills in the gap.
+
+**Dark adaptation:** Rods become more sensitive in low light (takes ~30 min). Cones adapt faster (~10 min).
+
+**Color Vision Theories:**
+1.  **Trichromatic theory (Young-Helmholtz):** Three types of cones (red, green, blue). Combination produces all colors. Explains color blindness (missing one cone type).
+2.  **Opponent-process theory (Hering):** Three opponent pairs (red/green, blue/yellow, black/white). Explains afterimages (stare at red → green afterimage).
+
+**Both theories are correct:** Cones do trichromatic (retina level). Ganglion cells do opponent-process (optic nerve level).
+
+**Color vision deficiency (color blindness):** Most common = red-green (missing red or green cones). More common in males (X-linked).
+
+**Visual disorders from brain damage:**
+- **Prosopagnosia (face blindness):** Cannot recognize faces. Damage to fusiform gyrus (temporal lobe).
+- **Blindsight:** Damage to occipital lobe → blind in part of visual field. But can still guess location of objects (unconscious vision via subcortical pathways).
+
+---
+
+### AUDITION (Full Detail)
+
+**Sound properties:**
+- **Pitch:** Frequency (wavelength). Hz. Higher frequency = higher pitch.
+- **Loudness:** Amplitude (height of wave). Decibels (dB).
+
+**Pathway:** Sound waves → Pinna (outer ear) → Auditory canal → Eardrum (tympanic membrane) → Ossicles (hammer, anvil, stirrup in middle ear) → Oval window → Cochlea (inner ear) → Hair cells (transduce) → Auditory nerve → Thalamus → Temporal lobe.
+
+**Pitch perception theories:**
+- **Place theory:** Different pitches stimulate different places on cochlea (basilar membrane). Explains high-frequency sounds.
+- **Frequency theory:** Neurons fire at same frequency as sound wave. Explains low-frequency sounds.
+- **Volley theory:** Groups of neurons fire in rapid succession to explain frequencies between 100-4000 Hz.
+
+**Sound localization:** Brain compares timing and loudness difference between two ears.
+- Horizontal plane: Difference in timing (microseconds).
+- Vertical plane: Difference in loudness and pinna filtering.
+
+**Hearing loss:**
+| Type | Location | Cause |
+| :--- | :--- | :--- |
+| **Conduction deafness** | Middle ear (ossicles, eardrum) | Damage to mechanical parts. Can be helped with hearing aid. |
+| **Sensorineural deafness** | Inner ear (cochlea, hair cells, auditory nerve) | Damage to hair cells or nerve. Cannot be repaired. Cochlear implant may help. |
+
+---
+
+### CHEMICAL SENSES (Olfaction & Gustation)
+
+**Olfaction (Smell):**
+- **ONLY sense that bypasses the thalamus.** Goes directly to olfactory bulb → amygdala/hippocampus (why smells trigger strong emotions/memories).
+- **Pheromones:** Chemical signals between same species (in animals; human evidence is weak).
+
+**Gustation (Taste):**
+- **Five basic tastes (plus one):** Sweet, sour, salty, bitter, umami (savory/meaty), oleogustus (fat).
+- Taste buds (papillae) on tongue contain taste receptor cells.
+- **Supertasters:** More taste buds → more sensitive to bitter. Genetic.
+
+**Interaction:** Most of "taste" is actually smell. Pinch nose while eating → barely taste.
+
+---
+
+### BODY SENSES
+
+**Touch (Tactile):** Pressure, warmth, cold, pain. Receptors in skin. "Hot" = simultaneous activation of warm and cold receptors.
+
+**Pain:**
+- **Gate control theory (Melzack & Wall):** Spinal cord has "gate" that can block or allow pain signals to brain. Rubbing injury (non-painful input) closes gate → less pain.
+- **Phantom limb sensation:** Sensation/pain in amputated limb. Brain still expects input from that area.
+
+**Vestibular sense (Balance):** **Semicircular canals** in inner ear (filled with fluid). Head movement → fluid moves → hair cells bend → brain knows head position. Motion sickness = mismatch between vestibular and visual input.
+
+**Kinesthesis (Body position):** Receptors in muscles, joints, tendons. Know where body parts are without looking. Touch nose with eyes closed = kinesthesis.
+
+---
+
+# Quick Summary: What You MUST Memorize
+
+| Concept | You Must Know |
+| :--- | :--- |
+| **Inhibitory NTs** | GABA (main), Serotonin, Endorphins |
+| **Excitatory NTs** | Glutamate (main), Dopamine, Norepinephrine, ACh, Substance P |
+| **Sympathetic vs Parasympathetic** | Sympathetic = fight/flight. Parasympathetic = rest/digest. |
+| **Broca vs Wernicke** | Broca = speech PRODUCTION. Wernicke = speech COMPREHENSION. |
+| **Rods vs Cones** | Rods = periphery, black/white, low light. Cones = fovea, color, detail. |
+| **Place vs Frequency theory** | Place = high pitch (location). Frequency = low pitch (firing rate). |
+| **REM sleep** | Paradoxical, dreaming, body paralyzed, REM rebound if deprived. |
+| **Agonist vs Antagonist** | Agonist = increases NT effect. Antagonist = blocks NT. |
 ---
 
 # UNIT 2: COGNITION (Complete Detail)
